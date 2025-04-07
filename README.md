@@ -4,7 +4,7 @@
   
 **[SESSION_VALIDATOR](https://pairing.giftedtech.web.id/validate)**
 
-**[GIFTED_YDL](https://youtube.giftedtech.web.id)**
+**[GIFTED_YDL](https://ytdl.giftedtech.web.id)**
 
 **[GIFTED_CDN](https://cdn.giftedtech.web.id)**
 
